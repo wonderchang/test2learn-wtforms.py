@@ -1,6 +1,6 @@
 # Test2learn Python WTForms
 
-A [Test2learn](https://github.com/wonderchang/test2learn) project for understanding Python **WTForms**.
+A [Test2learn](https://github.com/wonderchang/test2learn) project for understanding Python **[WTForms](https://pypi.org/project/wtforms/)**.
 
 ## Quickstart
 
@@ -11,6 +11,10 @@ Build running image
 Run tests to learn
 
     make test
+
+Go to container inside to figure out something wrong if needed
+
+    make shell
 
 Clean artifects
 
